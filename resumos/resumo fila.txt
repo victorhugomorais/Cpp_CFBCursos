@@ -1,0 +1,9 @@
+/*
+queu <string> cartas;
+empty() //vazia
+size() //tamanho
+pop() //tira
+push() //bota
+back() // ultima carta
+front() //primeira carta
+*/

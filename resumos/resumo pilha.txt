@@ -1,0 +1,10 @@
+//primeiro elemento a entrar = ultimo elemento a sai
+//ultimo elemento a entrar = primeiro elemento a sair
+/*resumo pilha
+stack <string> cartas;
+push(); //botar
+pop(); //tirar
+top(); // topo da pilha
+size(); // tamanho
+empty(); //vazia
+*/
